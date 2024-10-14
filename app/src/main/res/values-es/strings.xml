@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguageAppYt</string>
+    <string name="greeting">¡Hola, bienvenido!</string>
+    <string name="title">título</string>
+    <string name="switch_language" >cambiar idioma</string>
+</resources>
